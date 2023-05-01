@@ -5,3 +5,9 @@ Before executing the React and Node.js project, you need to set up the execution
 Prerequisites
 * Node.js (version 12 or higher)
 * NPM (version 6 or higher)
+
+
+Setup
+
+1. Clone the repository:
+git clone$ https://github.com/your-username/your-repo.git
