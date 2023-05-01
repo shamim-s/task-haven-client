@@ -10,4 +10,13 @@ Prerequisites
 Setup
 
 1. Clone the repository:
-git clone$ https://github.com/your-username/your-repo.git
+(`git clone https://github.com/your-username/your-repo.git`)
+
+2. Install dependencies:
+(`cd your-repo`)
+(`npm install`)
+
+3. Start the server:
+(`npm start`)
+
+4. Navigate to http://localhost:3000 in your web browser to view the application.
