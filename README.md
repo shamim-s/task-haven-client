@@ -10,7 +10,7 @@ Prerequisites
 Setup
 
 1. Clone the repository:
-* `git clone https://github.com/your-username/your-repo.git`
+* `git clone https://github.com/shamim-s/task-haven-client`
 
 2. Install dependencies:
 * `cd your-repo`
